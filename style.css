@@ -1,0 +1,16 @@
+* {
+    background-color: burlywood;
+}
+.aciklama{
+    margin-left: 400px;
+}
+.alt-baslik {
+    color: white;
+}
+.baslik{
+    color: rgb(127, 1, 1);
+}
+.end{
+    margin-left: 700px;
+    position: relative;
+}
